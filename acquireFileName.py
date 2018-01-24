@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Author: hewang
-# @Date:   2018-01-22 17:34:29
-# @Last Modified by:   hewang
-# @Last Modified time: 2018-01-22 17:36:30
 import os
 def file_name(file_dir):
     for root, dirs, files in os.walk(file_dir):
