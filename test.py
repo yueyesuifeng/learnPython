@@ -7,3 +7,4 @@ if type(L) == list:
 	print("L is list")
 if isinstance(L,list):
 	print("L is list")
+print "test"
